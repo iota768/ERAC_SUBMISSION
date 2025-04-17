@@ -1,4 +1,8 @@
-ArIES Explainable Research Assessment Challenge
+**ArIES Explainable Research Assessment Challenge**
+
+
+
+
 Overview
 This repository contains a complete solution for the ArIES Explainable Research Assessment Challenge. The goal is to automate the evaluation of research papers for publishability and provide concise, explainable justifications for each decision. The solution processes all PDFs in the provided "Papers" folder, classifies each as "Publishable" or "Non-Publishable," and generates a human-readable rationale for the classification.
 
